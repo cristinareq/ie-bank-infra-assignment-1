@@ -6,25 +6,25 @@
             "value": "prod"
         },
         "postgreSQLServerName": {
-            "value": "aguadamillas-dbsrv-uat"
+            "value": "cristireq-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "aguadamillas-db-uat"
+            "value": "cristireq-db-uat"
         },
         "appServicePlanName": {
-            "value": "aguadamillas-asp-uat"
+            "value": "cristireq-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "aguadamillas-be-uat"
+            "value": "cristireq-be-uat"
         },
         "appServiceAppName": {
-            "value": "aguadamillas-fe-uat"
+            "value": "cristireq-fe-uat"
         },
         "azureMonitorName": {
-            "value": "aguadamillas-am"
+            "value": "cristireq-am"
         },
         "appInsightsName": {
-            "value": "aguadamillas-ai"
+            "value": "cristireq-ai"
         },
         "location": {
             "value": "UK West"
