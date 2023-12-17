@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "environmentType": {
+            "value": "prod"
+        },
+        "postgreSQLServerName": {
+            "value": "aguadamillas-dbsrv-uat"
+        },
+        "postgreSQLDatabaseName": {
+            "value": "aguadamillas-db-uat"
+        },
+        "appServicePlanName": {
+            "value": "aguadamillas-asp-uat"
+        },
+        "appServiceAPIAppName": {
+            "value": "aguadamillas-be-uat"
+        },
+        "appServiceAppName": {
+            "value": "aguadamillas-fe-uat"
+        },
+        "azureMonitorName": {
+            "value": "aguadamillas-am"
+        },
+        "appInsightsName": {
+            "value": "aguadamillas-ai"
+        },
+        "location": {
+            "value": "UK West"
+        }
+    }
+}
